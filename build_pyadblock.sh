@@ -5,6 +5,7 @@ c++ -O3 -Wall -shared -std=c++11 \
      build/Release/obj.target/ad-block/node_modules/bloom-filter-cpp/BloomFilter.o \
      build/Release/obj.target/ad-block/node_modules/bloom-filter-cpp/hashFn.o \
      build/Release/obj.target/ad-block/ad_block_client.o  \
+     build/Release/obj.target/ad-block/context_domain.o \
      build/Release/obj.target/ad-block/cosmetic_filter.o \
      build/Release/obj.target/ad-block/filter_list.o \
      build/Release/obj.target/ad-block/filter.o \
